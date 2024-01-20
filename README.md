@@ -1,5 +1,4 @@
 This repository contains a simple and versatile  form designed for web applications.It offers an easy integration process and customizable fields to suit various registaration requirements.
-
 **Features:**
 User friendly interface:A clean and intuitive design for an optimal user experience.
 
